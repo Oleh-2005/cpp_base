@@ -1,8 +1,0 @@
-﻿  Maine.cpp
-D:\My c++\CPP_base\Home work\HomeWork_1\HomeWork_1\Maine.cpp(88,23): warning C4018: '<': signed/unsigned mismatch
-D:\My c++\CPP_base\Home work\HomeWork_1\HomeWork_1\Maine.cpp(100,23): warning C4018: '<': signed/unsigned mismatch
-D:\My c++\CPP_base\Home work\HomeWork_1\HomeWork_1\Maine.cpp(129,22): warning C4018: '<': signed/unsigned mismatch
-D:\My c++\CPP_base\Home work\HomeWork_1\HomeWork_1\Maine.cpp(150,24): warning C4018: '<': signed/unsigned mismatch
-D:\My c++\CPP_base\Home work\HomeWork_1\HomeWork_1\Maine.cpp(165,23): warning C4018: '<': signed/unsigned mismatch
-D:\My c++\CPP_base\Home work\HomeWork_1\HomeWork_1\Maine.cpp(204,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-  HomeWork_1.vcxproj -> D:\My c++\CPP_base\Home work\HomeWork_1\Debug\HomeWork_1.exe
