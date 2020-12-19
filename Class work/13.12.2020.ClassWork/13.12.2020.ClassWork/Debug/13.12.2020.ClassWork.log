@@ -1,0 +1,3 @@
+﻿  Source.cpp
+D:\My c++\CPP_base\Class work\13.12.2020.ClassWork\13.12.2020.ClassWork\Source.cpp(147,8): error C2374: 'fff': redefinition; multiple initialization
+D:\My c++\CPP_base\Class work\13.12.2020.ClassWork\13.12.2020.ClassWork\Source.cpp(145): message : see declaration of 'fff'
